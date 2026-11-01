@@ -1,0 +1,5 @@
+cheap,100
+cheap,102
+expensive,900
+cheap,99
+expensive,880
